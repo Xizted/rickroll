@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL del Rickroll (reproducción automática y silenciado)
-URL="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1"
+URL="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
 # Redirigimos la salida de error estándar (2>&1) y la normal a /dev/null 
 # para que la terminal de la víctima no muestre ningún mensaje sospechoso.

